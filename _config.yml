@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Alec Gallo"
+author: "Alec Gallo"
+description: "He/His"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "msimarro.md", title: "CV"}
+  - {file: "research.md", title: "Recent/Ongoing Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "alecgdrcmr.dk"}
+  - {title: Github, icon: github, url: "https://github.com/alecgallo/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/alecgallo/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
