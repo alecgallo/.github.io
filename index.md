@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img style="margin-right: 20px;" align="left" src="/assets/photo_5767394751107154014_y.jpg" width="200" height="300" alt="My Image">
+<img style="margin-right: 30px;" align="left" src="/assets/photo_5767394751107154014_y.jpg" width="200" height="300" alt="My Image">
 
 I am a research assistant at the [Danish Research Centre for Magnetic Resonance (DRCMR)](https://www.drcmr.dk/index.html). My research centers on unraveling the intricacies of human brain development during the first two decades of life and its impact on cognitive functions, specifically in the domains of language and memory. During my master's thesis at the [Basque Centre on Cognition, Brain and Language (BCBL)](https://www.bcbl.eu/en), I explored the developmental trajectories of thalamic nuclei and their association with reading and language comprehension abilities development during childhood under the supervision of Dr. [Pedro P. Paz-Alonso](https://www.bcbl.eu/en/conocenos/equipo/pedro-m-kepa-paz-alonso) and Dr. [Amaia Carrion-Castillo](https://www.bcbl.eu/en/conocenos/equipo/amaia-carrin-castillo).
 
