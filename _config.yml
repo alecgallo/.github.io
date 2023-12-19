@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "AlecGallo_CV__Complete.pdf", title: "CV", icon: home}
-  - {file: "research.md", title: "Research"}
+  - {file: "AlecGallo_CV__Complete.pdf", title: "CV"}
+  - {file: "research.md", title: "Recent/Ongoing Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "alecgdrcmr.dk"}
