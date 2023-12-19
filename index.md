@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-<img style="margin-right: 30px;" align="left" src="/assets/photo_5767394751107154014_y.jpg" width="267" height="400" alt="My Image">
+<img style="margin-right: 20px;" align="left" src="/assets/photo_5767394751107154014_y.jpg" width="267" height="400" alt="My Image">
 
 I am a research assistant at the [Danish Research Centre for Magnetic Resonance (DRCMR)](https://www.drcmr.dk/index.html). 
 <p>
