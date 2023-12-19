@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Recent/Ongoing Research"
+title: "Research"
 ---
 
 
