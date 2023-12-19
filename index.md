@@ -9,5 +9,5 @@ I am a research assistant at the [Danish Research Centre for Magnetic Resonance 
 
 Recently, I got interested in neurodegenerative diseases and mental disorders by volunterring with Alzheimer's, Parkinson's, schizophrenia and Multiple Sclerosis's patients. This led me to the Neuroimaging in Multiple Sclerosis's research group in Copenhaguen, where I am investigating the impact of thalamic lesions on cognitive function in MS patients, together with Dr. [Vanessa Wiggermann](https://www.drcmr.dk/vanessaw).
 
-<p>
+<p></p>
 In my spare time, I play chess and run, though not concurrently!
