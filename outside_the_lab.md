@@ -11,7 +11,7 @@ title: "Outside the lab"
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: site.title | default: "Website" }}</title>
     <style>
-        /* Basic styles for the page and button */
+        /* Basic styles for the page and navigation */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -20,20 +20,18 @@ title: "Outside the lab"
         }
         .navigation {
             display: flex;
-            justify-content: center;
-            margin-top: 20px;
+            justify-content: flex-end;
+            background-color: #333;
+            padding: 10px;
         }
-        .nav-button {
-            padding: 10px 20px;
+        .navigation a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
             font-size: 16px;
-            cursor: pointer;
-            background: none;
-            border: none;
-            color: #007bff;
-            text-decoration: underline;
         }
-        .nav-button:hover {
-            color: #0056b3;
+        .navigation a:hover {
+            background-color: #575757;
         }
         /* Styles for the curtain window */
         .curtain {
@@ -64,7 +62,9 @@ title: "Outside the lab"
 </head>
 <body>
     <nav class="navigation">
-        <button class="nav-button" onclick="toggleCurtain()">Outside the lab</button>
+        <a href="/cv/">CV</a>
+        <a href="/research/">Research</a>
+        <a href="javascript:void(0)" onclick="toggleCurtain()">Outside the lab</a>
     </nav>
 
     <div class="curtain" id="curtain">
