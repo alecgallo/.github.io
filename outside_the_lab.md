@@ -62,8 +62,9 @@ permalink: /outside_the_lab/
 </head>
 <body>
     <nav class="navigation">
-        <a href="/cv/">CV</a>
-        <a href="/research/">Research</a>
+        {% for item in site.navigation %}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        {% endfor %}
         <a href="javascript:void(0)" id="outside-the-lab-button">Outside the lab</a>
     </nav>
 
