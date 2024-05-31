@@ -5,27 +5,35 @@ title: "Outside the lab"
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outside the lab</title>
+    <title>{{ page.title | default: site.title | default: "Website" }}</title>
     <style>
         /* Basic styles for the page and button */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             background-color: #f4f4f4;
         }
-        .button {
+        .navigation {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .nav-button {
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
+            background: none;
+            border: none;
+            color: #007bff;
+            text-decoration: underline;
+        }
+        .nav-button:hover {
+            color: #0056b3;
         }
         /* Styles for the curtain window */
         .curtain {
@@ -55,8 +63,10 @@ title: "Outside the lab"
     </style>
 </head>
 <body>
-    <button class="button" onclick="toggleCurtain()">Outside the lab</button>
-    
+    <nav class="navigation">
+        <button class="nav-button" onclick="toggleCurtain()">Outside the lab</button>
+    </nav>
+
     <div class="curtain" id="curtain">
         <div class="curtain-content">
             <a href="#">2024</a>
