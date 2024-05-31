@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Outside the lab"
+permalink: /outside_the_lab/
 ---
-
 
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
