@@ -64,7 +64,7 @@ title: "Outside the lab"
     <nav class="navigation">
         <a href="/cv/">CV</a>
         <a href="/research/">Research</a>
-        <a href="javascript:void(0)" onclick="toggleCurtain()">Outside the lab</a>
+        <a href="javascript:void(0)" id="outside-the-lab-button">Outside the lab</a>
     </nav>
 
     <div class="curtain" id="curtain">
@@ -77,15 +77,14 @@ title: "Outside the lab"
     </div>
 
     <script>
-        // Function to toggle the curtain window
-        function toggleCurtain() {
+        document.getElementById('outside-the-lab-button').addEventListener('click', function() {
             var curtain = document.getElementById('curtain');
             if (curtain.style.display === 'flex') {
                 curtain.style.display = 'none';
             } else {
                 curtain.style.display = 'flex';
             }
-        }
+        });
     </script>
 </body>
 </html>
