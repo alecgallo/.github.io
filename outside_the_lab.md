@@ -7,7 +7,7 @@ permalink: /outside_the_lab/
 {% assign outside_lab_posts = site.posts | where: "categories", "outside-the-lab" %}
 
 {% if site.show_excerpts %}
-  <h2>New Projects</h2>
+  
   {% for post in outside_lab_posts %}
     <article>
       {% include meta.html post=post preview=true %}
@@ -16,7 +16,7 @@ permalink: /outside_the_lab/
     </article>
   {% endfor %}
 {% else %}
-  <h2>New Projects</h2>
+  
   {% for post in outside_lab_posts %}
     <article>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
