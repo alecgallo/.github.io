@@ -18,7 +18,7 @@ permalink: /outside_the_lab/
 {% else %}
   
   {% for post in outside_lab_posts %}
-    <article>
+    
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.date | date: "%B %d, %Y" }}</p>
       {{ post.content }}
