@@ -14,4 +14,3 @@ Our findings were presented at the [International Conference on Experimental Pho
 
 Check out the [poster](https://drive.google.com/file/d/1Ltz9kF-74DTSn409ELm-wK_ip4jpcI2D/view?usp=sharing) presented at the [Summer School of Linguistics 2022](https://ssol.ff.cuni.cz/past-years/ssol-2022/)! 
 Paper will be out soon :)
-
