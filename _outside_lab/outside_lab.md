@@ -1,8 +1,17 @@
 ---
-layout: default
-title: "Outside the Lab"
-permalink: /outside_lab/
----
+title:  "Gym"
 
-{% include _outside_lab.html %}
+---
+> subtext here
+>
+
+Text here 
+
+
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/84e83353-dbaa-462a-9adf-3f70ec32a98d)
+
+Bullet points 
+- One
+- two
+  
 
