@@ -1,6 +1,7 @@
 ---
 title:  "Gym"
-
+layout: post
+categories: outside-the-lab
 ---
 > subtext here
 >
