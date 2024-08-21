@@ -5,3 +5,4 @@ permalink: /outside_lab/
 ---
 
 {% include _outside_lab.html %}
+
