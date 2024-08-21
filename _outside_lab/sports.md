@@ -1,5 +1,5 @@
 ---
-title:  "Gym"
+title:  "Sports"
 layout: post
 categories: outside-the-lab
 ---
