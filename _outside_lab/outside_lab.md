@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Research"
-permalink: /research/
+title: "Outside the Lab"
+permalink: /outside_lab/
 ---
-{% if site.show_excerpts %} {% include home.html title="Past Projects" %} {% else %} {% include archive.html title="Past Projects" %} {% endif %}
 
+{% include _outside_lab.html %}
 
