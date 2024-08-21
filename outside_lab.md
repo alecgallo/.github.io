@@ -4,5 +4,5 @@ title: "Outside the Lab"
 permalink: /outside_lab/
 ---
 
-{% include _outside_lab.html %}
+{% include outside_lab.html %}
 
