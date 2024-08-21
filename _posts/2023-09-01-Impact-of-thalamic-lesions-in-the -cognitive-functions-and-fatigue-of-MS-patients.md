@@ -1,7 +1,7 @@
 ---
 title: "Impact of thalamic lesions on cognitive functions and fatigue in MS patients"
 layout: post
-categories: media
+categories: research
 ---
 
 > Alec Gallo, Vanessa Wiggermann, Mads J. A. Madsen, Hartwig R. Siebner (In prep)
