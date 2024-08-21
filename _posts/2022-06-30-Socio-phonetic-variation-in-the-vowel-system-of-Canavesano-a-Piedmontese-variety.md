@@ -1,7 +1,7 @@
 ---
 title: "Canavesano: acoustic description of the vowel system of a Piedmontese variety"
 layout: post
-categories: outside-the-lab
+categories: research
 ---
 
 > Alec Gallo, Gorka Elordieta Alcibar
