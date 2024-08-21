@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "alecgdrcmr.dk"}
   - {title: Github, icon: github, url: "https://github.com/alecgallo/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/alecgallo/"}
+  - {title: Google scholar, icon: google-scholar, url: "https://scholar.google.com.hk/citations?hl=en&pli=1&user=OeHmqp8AAAAJ" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
