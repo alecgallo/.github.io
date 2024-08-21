@@ -1,7 +1,7 @@
 ---
 title: "Thalamic nuclei development and their association in language development over middle childhood"
 layout: post
-categories: media
+categories: research
 ---
 
 > Amaia Carrion-Castillo, Alec Gallo, Liu Mengxing, Pedro Paz-Alonso (In prep)
