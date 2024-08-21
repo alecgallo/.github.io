@@ -1,7 +1,7 @@
 ---
 title: "Associations between rapid speech processing and verbal and non-verbal vocal abilities in ASD children"
 layout: post
-categories: media
+categories: research
 ---
 > Alec Gallo, Carly Demopoulos
 
