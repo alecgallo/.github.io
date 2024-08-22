@@ -2,6 +2,7 @@
 layout: page
 title: "Outside the Lab"
 permalink: /outside-the-lab/
+sitemap: false
 ---
 
-Check later for more!
+{% include outside_lab.html %}
