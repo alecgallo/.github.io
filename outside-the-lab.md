@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Outside the Lab"
-permalink: /outside-the-lab/
+permalink: /outside_lab/
 sitemap: false
 ---
 
