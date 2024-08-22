@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "alecgallo.md", title: "CV"} 
   - {file: "research.md", title: "Research"}
-  - {file: "outside_the_lab.md", title: "Outside the lab"}
+  - {file: "outside-the-lab.md", title: "Outside the lab"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "alec.gallo@uni-konstanz.de"}
