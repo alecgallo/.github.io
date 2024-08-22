@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: "Outside the Lab"
-permalink: /outside_lab/
 ---
 
 example
