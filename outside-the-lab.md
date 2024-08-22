@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Outside the Lab"
+permalink: /outside-the-lab/
 ---
-check later for more!
+
+Check later for more!
